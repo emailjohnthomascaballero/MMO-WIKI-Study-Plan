@@ -10,7 +10,7 @@ This study plan serves as my personal notes for preparing to develop the MMO Wik
 
 ## my todolist
 
-[MMO WIKI Development - Study Plan Checklist](https://www.notion.so/React-Fundamentals-401045e025cf4e8090bd759864cd2800?pvs=4)
+[MMO WIKI Development - Study Plan Checklist](https://www.notion.so/5eca9c77f59c417e8ed7735e0e9f064b?v=ce50432cc87a4f23b26afaf962d2e9af&pvs=4)
 
 ## useful links
 

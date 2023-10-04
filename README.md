@@ -1,13 +1,13 @@
+# Study Plan for MMO WIKI Website
+
+This study plan serves as my personal notes for preparing to develop the MMO Wiki website for my client. It outlines a structured approach to learning, contributing, and enhancing the mmowiki website. Whether you're a new contributor or aiming to improve your development skills, this plan will guide you toward making valuable contributions to the project.
+
+
 <p align="center">
   <a href="https://github.com/emailjohnthomascaballero">
     <img src="./Presentation/banner.png" alt="MMO Wiki Banner" width="100%">
   </a>
 </p>
-
-
-# Study Plan for MMO WIKI Website
-
-This study plan serves as my personal notes for preparing to develop the MMO Wiki website for my client. It outlines a structured approach to learning, contributing, and enhancing the mmowiki website. Whether you're a new contributor or aiming to improve your development skills, this plan will guide you toward making valuable contributions to the project.
 
 
 ## my todolist

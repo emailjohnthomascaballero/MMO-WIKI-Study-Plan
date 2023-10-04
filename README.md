@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/emailjohnthomascaballero">
-    <img src="" alt="MMO Wiki Banner" width="100%">
+    <img src="./Presentation/banner.png" alt="MMO Wiki Banner" width="100%">
   </a>
 </p>
 

@@ -30,6 +30,8 @@ This study plan serves as my personal notes for preparing to develop the MMO Wik
 
 [React Material UI Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO)
 
+[TypeScript for React/Next.js Developers](https://youtu.be/WlxcujsvcIY?si=S8h428wc9Ow1wFD8)
+
 [React TypeScript Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK)
 
 [Learn React Hooks - Simply Explained!](https://www.youtube.com/playlist?list=PLApy4UwQM3UrZsBTY111R6P4frt6WK-G2)

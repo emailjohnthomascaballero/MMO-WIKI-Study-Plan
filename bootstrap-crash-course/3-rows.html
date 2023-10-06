@@ -22,8 +22,13 @@
   </head>
   <body>
     <div class="container">
-      <div class="row row-cols-2">
-        <div class="col"><div class="box"></div></div>
+      <div class="row row-cols-2 gy-2 gx-2">
+        <div class="col">
+          <div class="row">
+            <div class="col"><div class="box"></div></div>
+            <div class="col"><div class="box"></div></div>
+          </div>
+        </div>
         <div class="col"><div class="box"></div></div>
         <div class="col"><div class="box"></div></div>
         <div class="col"><div class="box"></div></div>
@@ -32,7 +37,9 @@
   </body>
 </html>
 
-
 <!-- <div class="row">: This is a standard Bootstrap class used to create a grid row. Rows are used to group and align columns in your layout.
 
   row-cols-2: This class sets the number of columns per row to 2. In other words, each row within this container will have space for two columns side by side. This can be particularly useful when you want to create a grid layout with a specific number of columns per row, as opposed to the default of 12 columns per row. -->
+
+<!-- `gy-2` Vertical gutters - classes can be used to control the vertical gutter widths within a row when columns wrap to new lines. -->
+<!-- `gx-2` Horizontal gutters - classes can be used to control the horizontal gutter widths -->

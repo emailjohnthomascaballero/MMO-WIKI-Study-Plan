@@ -28,6 +28,8 @@ This study plan serves as my personal notes for preparing to develop the MMO Wik
 
 ## youtube tutorial
 
+[Bootstrap 5 Crash Course](https://youtu.be/Jyvffr3aCp0?si=Gc1rpns0q0fUI-WE)
+
 [React Material UI Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO)
 
 [TypeScript for React/Next.js Developers](https://youtu.be/WlxcujsvcIY?si=S8h428wc9Ow1wFD8)

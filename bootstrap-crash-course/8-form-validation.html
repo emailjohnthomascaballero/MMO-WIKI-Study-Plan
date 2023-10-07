@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Form Validation</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+      crossorigin="anonymous"
+      defer
+    ></script>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <form action="" novalidate>
+        <div class="form-floating">
+          <input
+            type="email"
+            id="email"
+            class="form-control"
+            placeholder="Place email here"
+            required
+          />
+          <label for="email">Email</label>
+          <div class="invalid-feedback">Invalid email</div> <!-- Error Message-->
+          <div class="valid-feedback">Correct email</div>
+        </div>
+        <button>Submit</button>
+      </form>
+    </div>
+
+    <script>
+      const form = document.querySelector("form");
+
+      form.addEventListener("submit", (e) => {
+        if (!form.checkValidity()) {
+          e.preventDefault();
+        }
+
+        form.classList.add("was-validated");
+      });
+    </script>
+  </body>
+</html>
+
+<!-- Server-side 
+We recommend using client-side validation, but in case you require server-side validation, you can indicate invalid and valid form fields with `.is-invalid` and `.is-valid.` Note that .invalid-feedback is also supported with these classes.
+
+For invalid fields, ensure that the invalid feedback/error message is associated with the relevant form field using aria-describedby (noting that this attribute allows more than one id to be referenced, in case the field already points to additional form text).
+
+To fix issues with border radius, input groups require an additional .has-validation class. -->

@@ -9,20 +9,98 @@ A semantic element clearly describes its meaning to both the browser and the dev
 Examples of non-semantic elements: <div> and <span> - Tells nothing about its content.
 
 Examples of semantic elements: <form>, <table>, and <article> - Clearly defines its content. -->
-  <!DOCTYPE html>
-  <html>
+<!DOCTYPE html>
+<html>
   <body>
-  
-  <section>
-    <h1>WWF</h1>
-    <p>The World Wide Fund for Nature (WWF) is an international organization working on issues regarding the conservation, research and restoration of the environment, formerly named the World Wildlife Fund. WWF was founded in 1961.</p>
-  </section>
-  
-  <section>
-    <h1>WWF's Panda symbol</h1>
-    <p>The Panda has become the symbol of WWF. The well-known panda logo of WWF originated from a panda named Chi Chi that was transferred from the Beijing Zoo to the London Zoo in the same year of the establishment of WWF.</p>
-  </section>
-  
+    <section>
+      <h1>WWF</h1>
+      <p>
+        The World Wide Fund for Nature (WWF) is an international organization
+        working on issues regarding the conservation, research and restoration
+        of the environment, formerly named the World Wildlife Fund. WWF was
+        founded in 1961.
+      </p>
+    </section>
+
+    <section>
+      <h1>WWF's Panda symbol</h1>
+      <p>
+        The Panda has become the symbol of WWF. The well-known panda logo of WWF
+        originated from a panda named Chi Chi that was transferred from the
+        Beijing Zoo to the London Zoo in the same year of the establishment of
+        WWF.
+      </p>
+    </section>
   </body>
-  </html>
-  
+</html>
+
+<br /><br /><br />
+<!-- HTML <article> Element
+    The <article> element specifies independent, self-contained content.
+    
+    An article should make sense on its own, and it should be possible to distribute it independently from the rest of the web site.
+    
+    Examples of where the <article> element can be used:
+    
+    Forum posts
+    Blog posts
+    User comments
+    Product cards
+    Newspaper articles -->
+
+<article>
+  <h2>Google Chrome</h2>
+  <p>
+    Google Chrome is a web browser developed by Google, released in 2008. Chrome
+    is the world's most popular web browser today!
+  </p>
+</article>
+
+<article>
+  <h2>Mozilla Firefox</h2>
+  <p>
+    Mozilla Firefox is an open-source web browser developed by Mozilla. Firefox
+    has been the second most popular web browser since January, 2018.
+  </p>
+</article>
+
+<article>
+  <h2>Microsoft Edge</h2>
+  <p>
+    Microsoft Edge is a web browser developed by Microsoft, released in 2015.
+    Microsoft Edge replaced Internet Explorer.
+  </p>
+</article>
+
+<br /><br /><br />
+<!-- Example 2
+Use CSS to style the <article> element: -->
+<html>
+  <head> <link rel="stylesheet" href="understand-html-structure.css"> </head>
+  <body>
+    <article class="all-browsers">
+      <h1>Most Popular Browser</h1>
+      <article class="browser">
+        <h2>Google Chrome</h2>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus,
+          repellendus.
+        </p>
+      </article>
+      <article class="browser">
+        <h2>Google Chrome</h2>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus,
+          repellendus.
+        </p>
+      </article>
+      <article class="browser">
+        <h2>Google Chrome</h2>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus,
+          repellendus.
+        </p>
+      </article>
+    </article>
+  </body>
+</html>

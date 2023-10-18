@@ -1,0 +1,12 @@
+.box {
+  background-color: aqua;
+  width: 200px;
+  height: 200px;
+}
+
+/* use postcss to support this */
+@media (width >= 300px) {
+  .box {
+    background-color: red;
+  }
+}

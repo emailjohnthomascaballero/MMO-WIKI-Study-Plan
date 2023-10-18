@@ -1,0 +1,18 @@
+body {
+  display: flex;
+}
+
+.box {
+  background-color: aqua;
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+}
+/* custom media by using variables --big (recommend use postcss to worked */
+@custom-media --big (width >= 400px);
+
+@media (--big) {
+  .box {
+    background-color: red;
+  }
+}

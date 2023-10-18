@@ -1,0 +1,25 @@
+.box {
+  background-color: aqua;
+  width: 200px;
+  height: 200px;
+}
+
+/* apply style when it reach width 300px */
+/* @media (min-width: 300px) {
+  .box {
+    background-color: blueviolet;
+  }
+} */
+
+/* apply style when its in landscape */
+@media (orientation: landscape) {
+  .box {
+    background-color: yellowgreen;
+  }
+}
+
+@media (orientation: portrait) {
+  .box {
+    background-color: red;
+  }
+}

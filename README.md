@@ -30,6 +30,8 @@ This study plan serves as my personal notes for preparing to develop the MMO Wik
 
 ## youtube tutorial
 
+[Top 10 Advanced CSS Responsive Design Concepts You Should Know](https://youtu.be/TUD1AWZVgQ8?si=rD2fjoWlsvZkHmqq)
+
 [How to implement React Leaflet in Nextjs 13 (App Router)](https://youtu.be/OjfRMmLp8NM?si=mFDChsx2ITDtafB-)
 
 [Bootstrap 5 Crash Course](https://youtu.be/Jyvffr3aCp0?si=Gc1rpns0q0fUI-WE)

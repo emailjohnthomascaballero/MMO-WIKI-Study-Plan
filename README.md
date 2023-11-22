@@ -27,6 +27,7 @@ This study plan serves as my personal notes for preparing to develop the MMO Wik
 
 [TanStack Table | React Table, Solid Table, Svelte Table, Vue Table](https://tanstack.com/table/v8)
 
+[12 Good Tooltip Examples and Best Practices](https://userguiding.com/blog/tooltip-examples-best-practices/)
 
 ## youtube tutorial
 

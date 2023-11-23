@@ -29,6 +29,8 @@ This study plan serves as my personal notes for preparing to develop the MMO Wik
 
 [12 Good Tooltip Examples and Best Practices](https://userguiding.com/blog/tooltip-examples-best-practices/)
 
+[Custom Tooltip CSS](https://stackoverflow.com/questions/10769016/display-image-on-text-link-hover-css-only)
+
 ## youtube tutorial
 
 [Top 10 Advanced CSS Responsive Design Concepts You Should Know](https://youtu.be/TUD1AWZVgQ8?si=rD2fjoWlsvZkHmqq)
@@ -50,6 +52,10 @@ This study plan serves as my personal notes for preparing to develop the MMO Wik
 
 [Modern React with Redux 2023 Update](https://www.udemy.com/course/react-redux/)
 
+
+## tools
+
+[css transform visualizer](https://css-transform.moro.es)
 
 
 

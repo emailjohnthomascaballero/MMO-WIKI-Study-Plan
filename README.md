@@ -31,6 +31,9 @@ This study plan serves as my personal notes for preparing to develop the MMO Wik
 
 [Custom Tooltip CSS](https://stackoverflow.com/questions/10769016/display-image-on-text-link-hover-css-only)
 
+[fix 'composer install' error](https://stackoverflow.com/questions/29318709/how-can-i-resolve-your-requirements-could-not-be-resolved-to-an-installable-set)
+
+
 ## youtube tutorial
 
 [Top 10 Advanced CSS Responsive Design Concepts You Should Know](https://youtu.be/TUD1AWZVgQ8?si=rD2fjoWlsvZkHmqq)

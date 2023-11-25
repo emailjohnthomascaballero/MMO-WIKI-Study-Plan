@@ -35,6 +35,7 @@ This study plan serves as my personal notes for preparing to develop the MMO Wik
 
 [fix 'composer install' error](https://stackoverflow.com/questions/29318709/how-can-i-resolve-your-requirements-could-not-be-resolved-to-an-installable-set)
 
+[Flex Cheat Sheet](https://flexbox.malven.co)
 
 ## youtube tutorial
 

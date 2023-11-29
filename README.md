@@ -53,6 +53,7 @@ This study plan serves as my personal notes for preparing to develop the MMO Wik
 
 [Learn React Hooks - Simply Explained!](https://www.youtube.com/playlist?list=PLApy4UwQM3UrZsBTY111R6P4frt6WK-G2)
 
+[How To Install Laravel For The First Time](https://youtu.be/2qgS_MCvDfk?si=OE-V-lT49Cnai9OL)
 
 ## udemy courses
 

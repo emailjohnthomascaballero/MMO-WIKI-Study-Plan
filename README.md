@@ -17,6 +17,8 @@ This study plan serves as my personal notes for preparing to develop the MMO Wik
 
 ## useful links
 
+[Responsive Design Cheatsheet](https://www.codeply.com/responsive-design-cheatsheet.html)
+
 [Bootstrap Cheat Sheet](https://getbootstrap.com/docs/5.0/examples/cheatsheet/)
 
 [Next.js Leaflet Starter](https://next-leaflet-starter.netlify.app)
